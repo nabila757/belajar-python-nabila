@@ -12,4 +12,3 @@ def luas_persegi(sisi) :
     print("luas dari persegi adalah : " + str(hasil) + " cm^2 \n")
 
 luas_persegi(5)
- 
